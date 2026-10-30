@@ -1,64 +1,34 @@
-# 👋 Hi, I'm Rayhan Arrazy
+# Hi, I'm Rayhan Arrazy 👋
 
-## Frontend Developer | Fullstack Enthusiast
+Frontend-focused fullstack developer based in Jakarta, Indonesia. I build web apps with React, Next.js, and TypeScript, and I'm looking for **junior frontend or fullstack roles**.
 
-I build modern web applications with JavaScript, TypeScript, React, Next.js, and Node.js.
+## Tech Stack
 
-### 🔭 What I'm working on
-- AI-powered task manager (Next.js 15 + AI integration)
-- Virtual meeting platform (Laravel + Vue 3)
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt.js, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, PHP, Laravel, PostgreSQL, REST API, Prisma, CodeIgniter
+- **AI:** Gemini API, LLMs, Prompt Engineering
+- **Tools:** Git, GitHub, Docker, Figma, Vite, Webpack, Flutter
 
-### 🛠️ My tech stack
-- **Frontend:** JavaScript, TypeScript, React, Next.js, Vue.js, Tailwind CSS
-- **Backend:** Node.js, PHP, Laravel, PostgreSQL
-- **Mobile:** Flutter
-- **Tools:** Git, Docker, Figma, Vite
+## Projects
 
----
+- **CV Builder with AI Career Coach** – Fullstack app to create and manage CVs, track job applications, and chat with an AI coach powered by Google Gemini. Built with React, TypeScript, Tailwind CSS, and Supabase.
+- **Live Market Dashboard** – Combines three market-data APIs (commodities, crypto, forex) into one dashboard of 23 assets, with charts, search, and persistent portfolios.
+- **E-commerce Platform** – Next.js 16, React 19, TypeScript, Tailwind CSS, and Supabase. Includes cart, wishlist, checkout, order tracking, real-time notifications, and a role-protected admin dashboard.
+- **REST Countries API** – Frontend Mentor challenge with search, filters, detail pages, and light/dark theme.
 
-## ⚡ Production Hub (Featured Projects)
+## Experience
 
-### 🤖 [Task-Flow](https://github.com/Rayhan-Arrazy/task-flow) | Next.js 15 • TypeScript • Prisma • PostgreSQL • AI Integration
-* **The System:** An AI-powered task management platform featuring a dynamic Kanban board, smart performance dashboard analytics, and deep Gemini Flash 3.5 API integration.
-* **Engineering Focus:** Utilizing modern React Server Components (RSC) and Next.js App Router architectures to handle secure, high-speed data orchestration.
+- **Front-end AI Engineer Intern**, FlyRank AI (Remote) – Jun 2026 – Oct 2026
+- **Software Engineer Intern**, Tynoc Tech (Remote) – Sep 2026 – Oct 2026
+- **Frontend Developer Intern**, Cexup Indonesia – Mar 2023 – May 2023
 
-### 📹 [NeoMeet](https://github.com/Rayhan-Arrazy/neomeetlv) | Laravel 12 • Vue 3 • Inertia.js • Jitsi Meet • Supabase
-* **The System:** A robust virtual conferencing platform leveraging Inertia.js to seamlessly blend standard backend MVC power with single-page frontend reactiveness.
-* **Engineering Focus:** Integrated Jitsi Meet for low-latency media streams alongside Supabase/PostgreSQL for secure, synchronized real-time state.
+## Education
 
-### 💳 [Subsync](https://github.com/Rayhan-Arrazy/subsync) | Java (Spring Boot) • React.js • Neon PostgreSQL • Architecture
-* **The System:** An automated subscription lifecycle management tracking application designed to isolate complex recurring transactional data pipelines.
-* **Engineering Focus:** Leveraged Java Spring Boot's enterprise data safety structures paired with optimized Neon serverless database instances.
+- B.Sc. Information Communication and Technology, Asia e University (2024 – 2028)
+- Diploma in Fullstack Development, CCIT-FTUI, University of Indonesia (2024 – 2026)
 
-### 🗺️ [Wayfarer-Travel](https://github.com/Rayhan-Arrazy/wayfarer-travel) | Flutter • Node.js • Real-Time Mapping • Automated Testing
-* **The System:** A full-scale mobile travel ecosystem complete with synchronous real-time location mapping, expense budgeting, and trip managers.
-* **Engineering Focus:** Enforces rigorous software reliability using automated unit, widget, and structural integration test suites.
+## Connect
 
----
-
-## 📈 Verified Competencies (HackerRank & Credentials)
-
-I back my practical implementations with externally validated algorithmic, system-level, and software engineering role tracking benchmarks:
-
-* 🏆 **HackerRank Role Certifications:** Verified *Software Engineer*, *Software Engineer Intern*, and *Frontend Developer (React)*.
-* 📊 **Core Technical Badges:** Verified *SQL (Advanced)*, *JavaScript (Intermediate)*, *REST API (Intermediate)*, and *Problem Solving (Basic)*.
-* 🌐 **Systems & Communication:** Cisco Networking Academy (*Computer Hardware Basics*) | freeCodeCamp (*B1/B2 English for Developers*).
-
----
-
-## 📫 Connect & Collaborate
-
-* 💼 **Portfolio Site:** [portweb-gold.vercel.app](https://portweb-gold.vercel.app/)
-* 🎯 **LinkedIn:** [/in/rayhan-arrazy-80332a383](https://www.linkedin.com/in/rayhan-arrazy-80332a383/)
-* ✈️ **Telegram:** [@rayhan111](https://t.me/rayhan111)
-* 📧 **Email:** [arrazyrayhan123@gmail.com](mailto:arrazyrayhan123@gmail.com)
-
----
-
-### 📊 GitHub Stats
-
-![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rayhan-Arrazy&show_icons=true&theme=default)
-
----
-
-⭐️ From [Rayhan-Arrazy](https://github.com/Rayhan-Arrazy)
+- LinkedIn: [rayhan-arrazy](https://www.linkedin.com/in/rayhan-arrazy-80332a383/)
+- Email: [arrazyrayhan123@gmail.com](mailto:arrazyrayhan123@gmail.com)
+- Telegram: [@rayar111](https://t.me/rayar111)
